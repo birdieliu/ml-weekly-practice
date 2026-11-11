@@ -1,0 +1,2 @@
+model,val_samples,best_epoch,mae,rmse
+single_head_attention,2880,37,1.238917901284165,1.5943476314348488
