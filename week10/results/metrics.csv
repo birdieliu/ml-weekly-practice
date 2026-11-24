@@ -1,0 +1,2 @@
+model,val_samples,best_epoch,best_val_mse_standardized,mae_raw,rmse_raw
+week10_single_encoder_layer,2880,33,0.009740733386327824,0.594753382437759,0.9056752031738535
